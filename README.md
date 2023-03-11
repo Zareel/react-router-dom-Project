@@ -7,3 +7,5 @@ dynamic routing in a web app. It allows you to display pages and allow
 users to navigate them.
 
 This project is built using react-router-dom and TailwindCSS
+
+![Screenshot (402)](https://user-images.githubusercontent.com/110910838/224507461-3c7ac00b-5cfb-436b-9c8f-b7b8bd19f562.png)
